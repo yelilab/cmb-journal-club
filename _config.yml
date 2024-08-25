@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: cmb-journal-club
+description: Computational Molecular Biology Journal Club
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://yelilab.github.io/cmb-journal-club
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/yelilab/cmb-journal-club
